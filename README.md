@@ -1,3 +1,3 @@
 # instagram-cln
-instagram clone 
+instagram clone made with react and tailwind
 
